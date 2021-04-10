@@ -1,0 +1,132 @@
+/*
+** Style Simple Ecommerce Theme for Bootstrap 4
+** Created by T-PHP https://t-php.fr/43-theme-ecommerce-bootstrap-4.html
+*/
+
+
+.bg-primary {
+    background-color: #28a745!important;
+}
+a{
+    color: black;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    font-family: sans-serif;
+    text-decoration: blink;
+}   
+
+.h4, h4{
+    font-size: 1rem;
+    color: green;
+}
+.bg-dark{
+    background-color: #ffffff!important;
+}
+
+.navbar-dark .navbar-brand {
+    color: green;
+    font-size: 3rem;
+    border-radius: 50px;
+}
+
+
+.text-muted {
+    color: aliceblue!important;
+}
+
+.h1, h1{
+    color: aliceblue!important;
+}
+
+.jumbotron {
+    padding: 2rem 0.5rem;
+    margin-bottom: 5rem;
+    background-color: darkseagreen;
+    border-radius: 2.3rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: green;
+    font-size: 1.25rem;
+    border-radius: 50px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.bloc_left_price {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 130%;
+}
+.category_block li:hover {
+    background-color :#28a745;
+}
+.category_block li a {
+    color: #343a40;
+}
+/*.add_to_cart_block .price {
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+    margin-bottom: 0;
+}*/
+/*.add_to_cart_block .price_discounted {
+    color: darkseagreen;
+    text-align: center;
+    text-decoration: line-through;
+    font-size: 140%;
+}*/
+.product_rassurance {
+    padding: 10px;
+    margin-top: 15px;
+    background: darkseagreen;
+    border: 1px solid darkseagreen;
+    color: #03A9F4;
+}
+.product_rassurance .list-inline {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-align: center;
+}
+.product_rassurance .list-inline li:hover {
+    color: darkseagreen;
+}
+.reviews_product .fa-star {
+    color: gold;
+}
+.pagination {
+    margin-top: 20px;
+}
+footer {
+    background: darkseagreen;
+    padding: 40px;
+    margin-top: 20px;
+}
+footer a {
+    color: white;
+}
+.bgc{
+    background-image: url(images/slider1.jpg);
+}
+.show_txt{
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+
+.col{
+    font-weight: bold;
+}
+
+.navbar-brand:hover{
+    background-color: green;
+}
+.nav-link:hover{
+    background-color: green;
+}
+
